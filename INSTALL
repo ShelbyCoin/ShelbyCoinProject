@@ -1,0 +1,9 @@
+Building Shelbycoin
+
+See doc/readme-qt.rst for instructions on building Shelbycoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Shelbycoin.
+
+See doc/build-*.txt for instructions on building shelbycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Shelbycoin.
